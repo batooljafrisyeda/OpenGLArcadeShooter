@@ -1,20 +1,13 @@
-OpenGL Arcade Shooter
-
-
+# OpenGL Arcade Shooter
 
 A 2D arcade shooter developed as part of CTIS164 — Technical Mathematics with Programming at Bilkent University.
 
-
-
-About the Project
-
-
+## About the Project
 
 The game challenges players to shoot incoming rocket targets using a cannon while keeping track of their score within a 30-second round.
 
 
-
-Features
+## Features
 
 Real-time cannon movement and projectile shooting
 
@@ -28,7 +21,7 @@ Start, pause, and restart controls
 
 
 
-Controls
+## Controls
 
 Arrow keys: Move the cannon
 
@@ -38,7 +31,7 @@ F1: Start / pause / restart
 
 
 
-Technologies
+## Technologies
 
 OpenGL
 
@@ -48,7 +41,7 @@ Microsoft Visual Studio
 
 
 
-How to Run
+## How to Run
 
 Clone or download this repository.
 
