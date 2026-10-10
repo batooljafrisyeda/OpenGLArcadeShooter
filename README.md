@@ -4,7 +4,7 @@ A 2D arcade shooter developed as part of CTIS164 — Technical Mathematics with 
 
 ## About the Project
 
-The game challenges players to shoot incoming rocket targets using a cannon while keeping track of their score within a 30-second round.
+The game challenges players to shoot incoming rocket targets using a cannon while keeping track of their score within a 30-second round. The closer to the center, the higher the score.
 
 
 ## Features
